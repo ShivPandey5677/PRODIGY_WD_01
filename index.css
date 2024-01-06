@@ -90,7 +90,7 @@ nav.sticky .nav-link:hover{
      left:-100%;
      top:5rem;
      flex-direction:column;;
-     background-color:#000080;
+     background-color:#474748;
      width:100%;
      padding-top:20px;
      padding-bottom:20px;
@@ -124,7 +124,7 @@ nav.sticky .nav-link:hover{
         transform: translateY(-8px) rotate(-45deg);
     }
     .nav-link:hover{
-        color:#0ec4f2;
+        color:#121313;
     }
 }
 p{
